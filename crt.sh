@@ -2,7 +2,7 @@ crt.sh which is a web interface to a distributed database called the certificate
 
 Things that you can monitor using this are:
 > certificate expiry of your certicates at one place.
-> mis-issued domain certificate and then taking proper actoin on it.
+> mis-issued domain certificate and then taking proper action on it.
 
 In simple words crt.sh will help you to find all the SSL or TLS certificates of the particular domain
 
